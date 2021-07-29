@@ -1,0 +1,111 @@
+{
+ "Listings": [
+  {
+   "name": "Showroom",
+   "Total_Cost": "₹ 8 Cr"
+  },
+  {
+   "name": "Showroom",
+   "Total_Cost": "₹ 10 Cr",
+   "Super_Area": "9120",
+   "Furnished_Construction_Car_Units_available": [
+    {
+     "name": "Ready to Move"
+    },
+    {
+     "name": "Furnished"
+    },
+    {
+     "name": "4 Open"
+    },
+    {
+     "name": "Grade A"
+    }
+   ],
+   "Wash": "8",
+   "Address": "Adyar, Chennai - Central, Tamil Nadu"
+  },
+  {
+   "name": "Office Space",
+   "Total_Cost": "₹ 1.95 Cr"
+  },
+  {
+   "name": "Office Space",
+   "Total_Cost": "₹ 72 Lac",
+   "Super_Area": "750",
+   "Furnished_Construction_Car_Units_available": [
+    {
+     "name": "None"
+    },
+    {
+     "name": "Ready to Move"
+    },
+    {
+     "name": "₹1,000 Monthly"
+    },
+    {
+     "name": "Call Center/BPO,Coaching Center,Private Consulting,Doctor Clinic,Pathology,IT/ITES and Related,Studio/Production house,Private Office,Health Care"
+    }
+   ],
+   "Wash": "Unfurnished",
+   "Address": "office space ground floor plot no 1 ceebros arcade buliding 3rd cross Road Kasturibai Nagar Adyar Chennai., Kasturibai Nagar, Chennai - Central, Tamil Nadu"
+  },
+  {
+   "name": "Shop",
+   "Total_Cost": "₹ 1.50 Cr"
+  },
+  {
+   "name": "Shop",
+   "Total_Cost": "₹ 65 Lac",
+   "Super_Area": "650",
+   "Furnished_Construction_Car_Units_available": [
+    {
+     "name": "Ready to Move"
+    },
+    {
+     "name": "Unfurnished"
+    },
+    {
+     "name": "None"
+    },
+    {
+     "name": "₹500 Monthly"
+    }
+   ],
+   "Wash": "Main Road",
+   "Address": "opp to sangeeta hotel Sardar Patel road, Gandhi Nagar Adyar, Chennai - Central, Tamil Nadu"
+  },
+  {
+   "name": "Office Space",
+   "Total_Cost": "₹ 75 Lac",
+   "Furnished_Construction_Car_Units_available": [
+    {
+     "name": "2 Open"
+    },
+    {
+     "name": "2"
+    },
+    {
+     "name": "Ready to Move"
+    },
+    {
+     "name": "1"
+    }
+   ],
+   "Wash": "Furnished",
+   "Address": "Indira Nagar- Adyar, Chennai - South, Tamil Nadu"
+  },
+  {
+   "name": "Shop",
+   "Total_Cost": "₹ 3 Lac"
+  },
+  {
+   "name": "Office Space",
+   "Total_Cost": "₹ 72 Lac"
+  },
+  {
+   "name": "Shop",
+   "Total_Cost": "₹ 9.5 Lac"
+  }
+ ]
+}
